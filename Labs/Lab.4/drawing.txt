@@ -1,0 +1,3 @@
+Rectangle(10, 5, 5, 5, char='#')
+Circle(6, 20, 20, char='o')
+Triangle(8, 6, 10, 25, char='^')
